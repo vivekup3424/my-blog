@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### Business Improv
+- The ability to innovate and rapidly respond to changes in the business environment is critical to competitiveness and success
 
-You can use the [editor on GitHub](https://github.com/vivekup3424/my-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Basics of improvising
+- Improvisation is the ability to create and implement a new or an unplanned solution in the face of an unexpected problem or change. It is often seen as a spontaneous, intuitive, creative problem-solving behavior that mostly happens “on the fly.”
+- Listening to what the person speaks and even if you are told "no" we just have to agree and supplement that affirmation, with a notion to support our ideas.
+- Whatever the person is saying, we say yes to that idea and express our support, not shut down and condenscend them.
+- We are gonna respect what they are saying, see if we can work around that and take it somewhere else, in place of saying "No, but", saying "Yes, and"
+- Three questions we have to answer "Why should you do it?", "Why right here?", and "Why right now?"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivekup3424/my-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
